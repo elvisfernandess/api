@@ -1,8 +1,10 @@
 # API REST BACK END 
 
 PROBLEMA DA PESQUISA
-Projetar  uma interface para monitoramento de dados de temperatura de eletrodomésticos (Geladeira / Freezer)  utilizando uma API  Back End REST, cuja tecnologia desenvolvida é baseada em arquitetura Spring Boot, utilizando a modelagem de dados persistidos, de baixo custo, viabilidade técnica e econômica, de alto confiabilidade por meio de uma tecnologia  que não cause impactos ambientais, e cujos dados possam ser armazenados.
+Projetar  uma interface para monitoramento de dados de temperatura de eletrodomésticos (Geladeira / Freezer)  utilizando uma API  Back End REST, cuja tecnologia desenvolvida é baseada em arquitetura Spring Boot, utilizando a modelagem de dados persistidos, de baixo custo, viabilidade técnica e econômica, de alta confiabilidade por meio de uma tecnologia  cujos dados possam ser armazenados em tempo real.
 
+JUSTIFICATIVA
+Os gastos desnecessários de eletricidade nas Geladeiras e Freezer's podem ser evitados via controle/monitoramento de temperatura. Se faz necessário o domínio de uma tecnologia cujos dados coletados (temperatura, data e hora) possam ser utilizados, visando a redução de custos e perdas por meio do controle do acionamento dos motores elétricos desses equipamentos.
 
 RESUMO
 
