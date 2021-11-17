@@ -1,6 +1,8 @@
 # API REST BACK END 
 
-A proposta desse Projeto é o desenolvimento de uma API  Back End REST, utilizando tecnologia desenvolvida em ​Spring Boot​, utilizando a modelagem de dados persistidos no formato JSON
+PROBLEMA DA PESQUISA
+Projetar  uma interface para monitoramento de dados de temperatura de eletrodomésticos (Geladeira / Freezer)  utilizando uma API  Back End REST, cuja tecnologia desenvolvida é baseada em arquitetura Spring Boot, utilizando a modelagem de dados persistidos, de baixo custo, viabilidade técnica e econômica, de alto confiabilidade por meio de uma tecnologia  que não cause impactos ambientais, e possa ser armazenada. 
+
 
 RESUMO
 
